@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ac228e39-7861-a99a-3b6f-cc36b6324310
 resourcetype: Document
 title: topic2creationofideas.pdf
 uid: 0b9410fa-7bc5-27c5-8b22-1f4e58b3521a

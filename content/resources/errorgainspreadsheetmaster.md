@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c7f56353-f332-55e1-6f0f-490c3f6af210
 resourcetype: Other
 title: errorgainspreadsheetmaster.xls
 uid: e6fb05c6-441c-f5ff-ae25-05d1f826c093

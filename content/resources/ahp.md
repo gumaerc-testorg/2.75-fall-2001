@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c7f56353-f332-55e1-6f0f-490c3f6af210
 resourcetype: Other
 title: ahp.xls
 uid: a68f7eeb-8b3c-456f-02cc-dbe8e62b2681

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c7f56353-f332-55e1-6f0f-490c3f6af210
 resourcetype: Other
 title: hcontact.xls
 uid: fff0cbe3-b03b-2bde-e347-4075a5b81a9f

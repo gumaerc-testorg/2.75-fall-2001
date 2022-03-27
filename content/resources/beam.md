@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c7f56353-f332-55e1-6f0f-490c3f6af210
 resourcetype: Other
 title: beam.xls
 uid: 57ee5f36-fa78-0848-e00f-8e6018ed37f8

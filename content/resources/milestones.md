@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ac228e39-7861-a99a-3b6f-cc36b6324310
 resourcetype: Document
 title: milestones.pdf
 uid: 2f1e3ac9-27cd-996b-95fa-4adc90a3816f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c7f56353-f332-55e1-6f0f-490c3f6af210
 resourcetype: Other
 title: beloit.xls
 uid: 8ad79a1a-b81c-c0af-f430-f91a3a5fbed4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ac228e39-7861-a99a-3b6f-cc36b6324310
 resourcetype: Document
 title: topic1designisaprocess.pdf
 uid: fde22c3c-1be5-2641-434e-dbadc992dc84
