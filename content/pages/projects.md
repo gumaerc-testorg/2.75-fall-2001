@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Projects
 uid: ac228e39-7861-a99a-3b6f-cc36b6324310
 ---
@@ -131,8 +132,8 @@ The goal of this project is to design a milling center that will accurately alli
 Special Topics
 --------------
 
-*   Milestones ([PDF - 1.8 MB]({{< baseurl >}}/resources/milestones))
-*   Design Process ([PDF - 2.1 MB]({{< baseurl >}}/resources/topic1designisaprocess))
-*   Creating Ideas ([PDF - 1.5 MB]({{< baseurl >}}/resources/topic2creationofideas))
-*   Fundamental Principles ([PDF - 1.8 MB]({{< baseurl >}}/resources/topic3fundamentalprinciples))
-*   Errors in Precision Machines ([PDF - 1.9 MB]({{< baseurl >}}/resources/topic4errorsinprecisionmachines))
+*   Milestones ({{< resource_link 2f1e3ac9-27cd-996b-95fa-4adc90a3816f "PDF - 1.8 MB" >}})
+*   Design Process ({{< resource_link fde22c3c-1be5-2641-434e-dbadc992dc84 "PDF - 2.1 MB" >}})
+*   Creating Ideas ({{< resource_link 0b9410fa-7bc5-27c5-8b22-1f4e58b3521a "PDF - 1.5 MB" >}})
+*   Fundamental Principles ({{< resource_link 78ed5401-0cbe-ebb5-a27a-f05d734a26ad "PDF - 1.8 MB" >}})
+*   Errors in Precision Machines ({{< resource_link 6587342c-5f6f-fe66-f4da-3e4e634891a2 "PDF - 1.9 MB" >}})
