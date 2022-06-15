@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-75-precision-machine-design-fall-2001/9eafe041e6185376105623be9441a8cb_Image1inConstraint_Lecture_Part_I.jpg
+file: /courses/2-75-precision-machine-design-fall-2001/9eafe041e6185376105623be9441a8cb_Image1inConstraint_Lecture_Part_I.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -9,7 +9,6 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
-parent_uid: null
 resourcetype: Image
 title: Image1inConstraint_Lecture_Part_I.jpg
 uid: 9eafe041-e618-5376-1056-23be9441a8cb

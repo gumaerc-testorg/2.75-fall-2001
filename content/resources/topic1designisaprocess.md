@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design is a Passionate Process
-file: /media/courses/2-75-precision-machine-design-fall-2001/fde22c3c1be52641434edbadc992dc84_topic1designisaprocess.pdf
+file: /courses/2-75-precision-machine-design-fall-2001/fde22c3c1be52641434edbadc992dc84_topic1designisaprocess.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: topic1designisaprocess.pdf
 uid: fde22c3c-1be5-2641-434e-dbadc992dc84
 ---
+Design is a Passionate Process
+
