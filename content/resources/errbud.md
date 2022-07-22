@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/4d968faff08bac4ced6578538
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: errbud.xls
 uid: 4d968faf-f08b-ac4c-ed65-785387ecece4
 ---
 Coordinate systems location
-

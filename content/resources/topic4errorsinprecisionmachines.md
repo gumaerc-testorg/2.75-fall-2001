@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/6587342c5f6ffe66f4da3e4e6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: topic4errorsinprecisionmachines.pdf
 uid: 6587342c-5f6f-fe66-f4da-3e4e634891a2
 ---
 Understanding and modeling errors in machines
-

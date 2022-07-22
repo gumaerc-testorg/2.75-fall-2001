@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/58b4d7080539724bec956b517
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: error_gain.xls
 uid: 58b4d708-0539-724b-ec95-6b517652e60f
 ---
 Error Gain Spreadsheet
-

@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/04221076b1114860fdd760028
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fdtrans.xls
 uid: 04221076-b111-4860-fdd7-600280adcd57
 ---
 Friction drive design spreadsheet
-

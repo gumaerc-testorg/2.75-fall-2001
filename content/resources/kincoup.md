@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/52a41aaf7552c7db0ef231292
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kincoup.xls
 uid: 52a41aaf-7552-c7db-0ef2-3129260b8ceb
 ---
 Design of three groove kinematic couplings
-

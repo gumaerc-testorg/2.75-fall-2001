@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/f60804676b2c0321b08a73766
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: railfnd.xls
 uid: f6080467-6b2c-0321-b08a-737666eb072d
 ---
 Bolted rail on elastic foundation
-

@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/e5bcb93d9017a90d82b3b0433
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: boltdes.xls
 uid: e5bcb93d-9017-a90d-82b3-b043333b6f1e
 ---
 Bolted rail design
-

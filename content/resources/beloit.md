@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/8ad79a1ab81cc0aff430f91a3
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: beloit.xls
 uid: 8ad79a1a-b81c-c0af-f430-f91a3a5fbed4
 ---
 Determine equivalent load rating for ballscrew selection
-

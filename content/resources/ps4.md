@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/a46abb5cc7eb56338884b6d64
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4.pdf
 uid: a46abb5c-c7eb-5633-8884-b6d64a21145a
 ---
 PROBLEM SET 4
-

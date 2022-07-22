@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/7f6ffcc2eac85dbde089b3002
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bimat.xls
 uid: 7f6ffcc2-eac8-5dbd-e089-b3002c04e0b6
 ---
 Determine thermal errors in a bi-material beam
-

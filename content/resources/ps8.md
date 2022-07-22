@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/af00e688ee5541389c66e6f01
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps8.pdf
 uid: af00e688-ee55-4138-9c66-e6f0143ac33d
 ---
 Homework assignment.
-

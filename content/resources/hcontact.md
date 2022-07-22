@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/fff0cbe3b03b2bdee3474075a
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hcontact.xls
 uid: fff0cbe3-b03b-2bde-e347-4075a5b81a9f
 ---
 Determine Hertz Contact Stresses
-

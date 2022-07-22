@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/a03a4b835a84e2da60dabb18c
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kinbear.xls
 uid: a03a4b83-5a84-e2da-60da-bb18c9aa308f
 ---
 Analysis of errors in a kinematically supported carriage
-

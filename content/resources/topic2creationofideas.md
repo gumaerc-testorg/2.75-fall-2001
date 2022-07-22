@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/0b9410fa7bc527c58b221f4e5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: topic2creationofideas.pdf
 uid: 0b9410fa-7bc5-27c5-8b22-1f4e58b3521a
 ---
 Creation of Ideas
-

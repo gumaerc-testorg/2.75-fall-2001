@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/78ed54010cbeebb5a27af05d7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: topic3fundamentalprinciples.pdf
 uid: 78ed5401-0cbe-ebb5-a27a-f05d734a26ad
 ---
 Fundamental Principles
-

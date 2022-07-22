@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/f7c2dae69daa7e7ec85765774
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol2.pdf
 uid: f7c2dae6-9daa-7e7e-c857-65774d1f2f2a
 ---
 Solutions to homework problems.
-

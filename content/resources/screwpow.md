@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/475ba1b43ab7f435a4e5b1c38
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: screwpow.xls
 uid: 475ba1b4-3ab7-f435-a4e5-b1c3876eddef
 ---
 Screwthread forces
-

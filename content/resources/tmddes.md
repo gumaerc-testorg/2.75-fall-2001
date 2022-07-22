@@ -5,6 +5,7 @@ file: /courses/2-75-precision-machine-design-fall-2001/c6a344331ebc808b60db30996
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tmddes.xls
 uid: c6a34433-1ebc-808b-60db-3099617e7387
 ---
 Tuned mass damper design for a cantilever beam
-
