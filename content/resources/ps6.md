@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/2-75-precision-machine-design-fall-2001/6ae7c47ed3944b318d404baf279ae787_ps6.pdf
+file_size: 107116
 file_type: application/pdf
 learning_resource_types:
 - Assignments

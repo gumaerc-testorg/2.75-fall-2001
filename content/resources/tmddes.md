@@ -2,6 +2,7 @@
 content_type: resource
 description: Tuned mass damper design for a cantilever beam
 file: /courses/2-75-precision-machine-design-fall-2001/c6a344331ebc808b60db3099617e7387_tmddes.xls
+file_size: 71680
 file_type: application/msword
 learning_resource_types:
 - Tools

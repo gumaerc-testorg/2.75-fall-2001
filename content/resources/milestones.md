@@ -2,6 +2,7 @@
 content_type: resource
 description: '2.007 2002 Milestones: The MIT and the Pendulum'
 file: /courses/2-75-precision-machine-design-fall-2001/2f1e3ac927cd996b95fa4adc90a3816f_milestones.pdf
+file_size: 1938689
 file_type: application/pdf
 learning_resource_types:
 - Projects
