@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to homework problems.
 file: /courses/2-75-precision-machine-design-fall-2001/e0a070ab15fe5e3b9edb53b6cad171f2_sol1.pdf
+file_size: 227491
 file_type: application/pdf
 learning_resource_types:
 - Assignments

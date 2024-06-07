@@ -2,6 +2,7 @@
 content_type: resource
 description: Screwthread forces
 file: /courses/2-75-precision-machine-design-fall-2001/475ba1b43ab7f435a4e5b1c3876eddef_screwpow.xls
+file_size: 32768
 file_type: application/msword
 learning_resource_types:
 - Tools

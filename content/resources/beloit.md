@@ -2,6 +2,7 @@
 content_type: resource
 description: Determine equivalent load rating for ballscrew selection
 file: /courses/2-75-precision-machine-design-fall-2001/8ad79a1ab81cc0aff430f91a3a5fbed4_beloit.xls
+file_size: 18944
 file_type: application/msword
 learning_resource_types:
 - Tools
