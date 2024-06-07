@@ -2,6 +2,7 @@
 content_type: resource
 description: Friction drive design spreadsheet
 file: /courses/2-75-precision-machine-design-fall-2001/04221076b1114860fdd7600280adcd57_fdtrans.xls
+file_size: 13693
 file_type: application/octet-stream
 learning_resource_types:
 - Tools

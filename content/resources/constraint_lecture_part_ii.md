@@ -2,6 +2,7 @@
 content_type: resource
 description: ADJUSTABLE GEOMETRIC CONSTRAINTS
 file: /courses/2-75-precision-machine-design-fall-2001/2fbb186787f4e992dcbf38599193e60c_constraint_lecture_part_II.pdf
+file_size: 2108299
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
