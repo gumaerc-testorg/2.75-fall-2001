@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Analysis of errors in a kinematically supported carriage
-file: /courses/2-75-precision-machine-design-fall-2001/a03a4b835a84e2da60dabb18c9aa308f_kinbear.xls
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/a03a4b835a84e2da60dabb18c9aa308f_kinbear.xls
 file_size: 25207
 file_type: application/octet-stream
 learning_resource_types:

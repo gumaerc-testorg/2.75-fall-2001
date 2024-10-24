@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: PROBLEM SET 4
-file: /courses/2-75-precision-machine-design-fall-2001/a46abb5cc7eb56338884b6d64a21145a_ps4.pdf
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/a46abb5cc7eb56338884b6d64a21145a_ps4.pdf
 file_size: 370190
 file_type: application/pdf
 learning_resource_types:

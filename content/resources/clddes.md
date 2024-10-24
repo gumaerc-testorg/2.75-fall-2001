@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design constrained layer dampers for a rectangular beam with plate CLDs
-file: /courses/2-75-precision-machine-design-fall-2001/dc7e420ed287228df6b94fdffcbf4567_clddes.xls
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/dc7e420ed287228df6b94fdffcbf4567_clddes.xls
 file_size: 25600
 file_type: application/msword
 learning_resource_types:
