@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Determine thermal errors in a simply supported beam
-file: /courses/2-75-precision-machine-design-fall-2001/bbd592ca6448dc907b2b2ddc6e9037cf_tgrad.xls
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/bbd592ca6448dc907b2b2ddc6e9037cf_tgrad.xls
 file_size: 11894
 file_type: application/octet-stream
 learning_resource_types:
