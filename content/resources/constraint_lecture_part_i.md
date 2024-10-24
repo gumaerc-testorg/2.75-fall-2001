@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: CONSTRAINT LECTURE
-file: /courses/2-75-precision-machine-design-fall-2001/962f560f763715a81e775af536b5e3f8_constraint_lecture_part_I.pdf
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/962f560f763715a81e775af536b5e3f8_constraint_lecture_part_I.pdf
 file_size: 2477174
 file_type: application/pdf
 learning_resource_types:

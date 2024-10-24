@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Coordinate systems location
-file: /courses/2-75-precision-machine-design-fall-2001/4d968faff08bac4ced65785387ecece4_errbud.xls
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/4d968faff08bac4ced65785387ecece4_errbud.xls
 file_size: 1100288
 file_type: application/msword
 learning_resource_types:
