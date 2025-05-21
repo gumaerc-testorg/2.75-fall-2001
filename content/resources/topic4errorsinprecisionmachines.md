@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Understanding and modeling errors in machines
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/6587342c5f6ffe66f4da3e4e634891a2_topic4errorsinprecisionmachines.pdf
+file: /courses/2-75-precision-machine-design-fall-2001/6587342c5f6ffe66f4da3e4e634891a2_topic4errorsinprecisionmachines.pdf
 file_size: 2025809
 file_type: application/pdf
 learning_resource_types:

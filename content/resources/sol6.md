@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to homework problems.
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/0005b0284ac00ff469834bf3e7b5380a_sol6.pdf
+file: /courses/2-75-precision-machine-design-fall-2001/0005b0284ac00ff469834bf3e7b5380a_sol6.pdf
 file_size: 158699
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Determine slope, bending, and shear deflections of a simply supported
   beam loaded by its own weight
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/57ee5f36fa780848e00f8e6018ed37f8_beam.xls
+file: /courses/2-75-precision-machine-design-fall-2001/57ee5f36fa780848e00f8e6018ed37f8_beam.xls
 file_size: 34937
 file_type: application/octet-stream
 learning_resource_types:

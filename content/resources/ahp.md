@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: AHP Spreadsheet
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/a68f7eeb8b3c456f02ccdbe8e62b2681_ahp.xls
+file: /courses/2-75-precision-machine-design-fall-2001/a68f7eeb8b3c456f02ccdbe8e62b2681_ahp.xls
 file_size: 115285
 file_type: application/octet-stream
 learning_resource_types:

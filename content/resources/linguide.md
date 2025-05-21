@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design of linear guides
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/b3b81199c6d8c01802473a3f15f31a99_linguide.xls
+file: /courses/2-75-precision-machine-design-fall-2001/b3b81199c6d8c01802473a3f15f31a99_linguide.xls
 file_size: 24576
 file_type: application/msword
 learning_resource_types:
