@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bolted rail design
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/e5bcb93d9017a90d82b3b043333b6f1e_boltdes.xls
+file: /courses/2-75-precision-machine-design-fall-2001/e5bcb93d9017a90d82b3b043333b6f1e_boltdes.xls
 file_size: 6932
 file_type: application/octet-stream
 learning_resource_types:

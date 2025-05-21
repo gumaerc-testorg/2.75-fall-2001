@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fundamental Principles
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/78ed54010cbeebb5a27af05d734a26ad_topic3fundamentalprinciples.pdf
+file: /courses/2-75-precision-machine-design-fall-2001/78ed54010cbeebb5a27af05d734a26ad_topic3fundamentalprinciples.pdf
 file_size: 1897972
 file_type: application/pdf
 learning_resource_types:

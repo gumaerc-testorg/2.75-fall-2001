@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design is a Passionate Process
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/fde22c3c1be52641434edbadc992dc84_topic1designisaprocess.pdf
+file: /courses/2-75-precision-machine-design-fall-2001/fde22c3c1be52641434edbadc992dc84_topic1designisaprocess.pdf
 file_size: 2317261
 file_type: application/pdf
 learning_resource_types:
