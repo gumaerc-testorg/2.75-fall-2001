@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bolt Forces
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/b031ec071562198e6976f988d06a2d6f_boltforce.xls
+file: /courses/2-75-precision-machine-design-fall-2001/b031ec071562198e6976f988d06a2d6f_boltforce.xls
 file_size: 17920
 file_type: application/msword
 learning_resource_types:

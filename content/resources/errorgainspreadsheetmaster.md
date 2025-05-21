@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Error Gain Spreadsheet-master
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/e6fb05c6441cf5ffae2505d1f826c093_errorgainspreadsheetmaster.xls
+file: /courses/2-75-precision-machine-design-fall-2001/e6fb05c6441cf5ffae2505d1f826c093_errorgainspreadsheetmaster.xls
 file_size: 349696
 file_type: application/msword
 learning_resource_types:

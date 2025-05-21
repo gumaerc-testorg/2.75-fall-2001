@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design of three groove kinematic couplings
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/52a41aaf7552c7db0ef23129260b8ceb_kincoup.xls
+file: /courses/2-75-precision-machine-design-fall-2001/52a41aaf7552c7db0ef23129260b8ceb_kincoup.xls
 file_size: 69120
 file_type: application/msword
 learning_resource_types:

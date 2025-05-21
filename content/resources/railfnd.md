@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bolted rail on elastic foundation
-file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/f60804676b2c0321b08a737666eb072d_railfnd.xls
+file: /courses/2-75-precision-machine-design-fall-2001/f60804676b2c0321b08a737666eb072d_railfnd.xls
 file_size: 5615
 file_type: application/octet-stream
 learning_resource_types:
