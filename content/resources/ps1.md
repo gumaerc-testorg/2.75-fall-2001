@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/2-75-precision-machine-design-fall-2001/c7e9cf34a0e5a8cc8e27b79d69a2e900_ps1.pdf
+file: /ol-ocw-studio-app/courses/2-75-precision-machine-design-fall-2001/c7e9cf34a0e5a8cc8e27b79d69a2e900_ps1.pdf
 file_size: 120864
 file_type: application/pdf
 learning_resource_types:
